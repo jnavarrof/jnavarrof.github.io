@@ -16,7 +16,7 @@ For those curious, here is what I am working on:
 * Working at the HPC Services Department (University of Cambridge)
 * Meeting awesome professionals and really good people
 * Creating this page
-* Allways biking to work, restarting my strength training, clean eating, not clean eating
+* Always cycling to work, restarting my strength training, clean eating, not clean eating
 
 ![University of Cambridge](/img/uni_camb.jpg){:class="img-responsive center-block rounded-circle" width="500px"}
 

@@ -19,6 +19,8 @@ navbar-links:
 #  Posts: "posts"
   Now: "now"
   Blog: "blog"
+#  Tags: "tags"
+  Resume: "resume"
   About Me: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"

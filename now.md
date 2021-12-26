@@ -3,25 +3,27 @@ layout: default
 title: What I am doing Now
 permalink: /now/
 bigimg: /img/uni_camb.jpg
-date: 2018-10-28
+date: 2021-12-26
 ---
 
-*This update was October 28th, 2018*
+*This update was December 27th, 2021*
 
 
 Born in Barcelona, Spain, I am currently living an awesome experience in Cambridge, United Kingdom; a beautiful city where there is always something to see and do. 
 
 For those curious, here is what I am working on:
 
-* Working at the HPC Services Department (University of Cambridge)
-* Meeting awesome professionals and really good people
-* Creating this page
-* Always cycling to work, restarting my strength training, clean eating, not clean eating
+* Working as a *HPC and Cloud Lead Engineer* at the Scientific Computing Platform team, [AstraZeneca](https://www.astrazeneca.com).
+* Meeting awesome professionals and really good people.
+* Creating this page.
+* Always cycling to work, restarting my strength training, clean eating, not clean eating.
 
-![University of Cambridge](/img/uni_camb.jpg){:class="img-responsive center-block rounded-circle" width="500px"}
-
+![AstraZeneca Strategic R&D Centre and Global HQ, Cambridge (UK)](/img/az_cambridge.jpg){:class="img-responsive center-block rounded-circle" width="500px"}
+<center><i>AstraZeneca Strategic R&D Centre and Global HQ, Cambridge (UK)</i></center>
 
 <!-- 
+![University of Cambridge](/img/uni_camb.jpg){:class="img-responsive center-block rounded-circle" width="500px"}
+
 ![University of Cambridge]({{ site.url }}/img/uni_camb.jpg =200x)
 These are the things currently occupying my attention in no particular order:
 
